@@ -9,7 +9,7 @@ In addition, the other Python files extract some of the features resulting from 
 For more information, you can contact with us or address your requests on the issues. :) 
 topcuburak@gmail.com
 
-> **Gardenia** [Gardenia](https://github.com/chenxuhao/gardenia)  <br> 
+> [Gardenia](https://github.com/chenxuhao/gardenia)  <br> 
 >> **BC Linear Base** <br> 
 >> **BC Linear LB** <br>
 >> **BC Topo Base** <br>
@@ -30,7 +30,8 @@ topcuburak@gmail.com
 >> **SSSP Linear LB** <br>
 >> **VC Linear Base** <br>
 >> **VC Linear Bitset** <br>
->>> **Datasets** 
+
+Datasets used for to test Gardenia applications:
 ```console
 4.mtx, 4w.mtx, asia_osm.mtx, chesapeake.mtx, coAuthorsCiteseer.mtx, coAuthorsDBLP.mtx, 
 coPapersCiteseer.mtx, coPapersDBLP.mtx, germany_osm.mtx, great-britain_osm.mtx, higgs-twitter_mention.mtx,
@@ -40,7 +41,7 @@ soc-Slashdot0811.mtx, soc-Slashdot0902.mtx, test_bc.mtx, test_cc.mtx, test_mst.m
 test_scc.mtx, test_sgd.mtx, test_small_scc.mtx, web-Google.mtx, web-NotreDame.mtx, web-Stanford.mtx
 ``` 
 
-> **PolyBench** : [PolyBench](https://web.cs.ucla.edu/~pouchet/software/polybench/GPU/index.html)
+> [PolyBench](https://web.cs.ucla.edu/~pouchet/software/polybench/GPU/index.html)
 >> **2DConvolution**
 >> **2mm**
 >> **3DConvolution**
@@ -62,7 +63,7 @@ test_scc.mtx, test_sgd.mtx, test_small_scc.mtx, web-Google.mtx, web-NotreDame.mt
 >> **syr2k**
 >> **syrk**
 
-> **Rodinia-3.1** [Rodinia 3.1](https://www.cs.virginia.edu/rodinia/doku.php)
+> [Rodinia 3.1](https://www.cs.virginia.edu/rodinia/doku.php)
 >> **backrop**
 >> **bfs**
 >> **b+tree**
@@ -81,7 +82,7 @@ test_scc.mtx, test_sgd.mtx, test_small_scc.mtx, web-Google.mtx, web-NotreDame.mt
 >> **srad_v1**
 >> **srad_v2**
 
-> **TangoDNN** [Tango](https://gitlab.com/Tango-DNNbench/)
+> [TangoDNN](https://gitlab.com/Tango-DNNbench/)
 >> **alex_next**
 >> **cifar_net**
 >> **gru**
