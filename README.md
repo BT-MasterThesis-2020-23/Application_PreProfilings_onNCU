@@ -32,7 +32,8 @@ topcuburak@gmail.com
 >> **VC Linear Bitset** <br>
 >>> **Datasets** 
 ```console
-4.mtx, 4w.mtx, asia_osm.mtx, chesapeake.mtx, coAuthorsCiteseer.mtx, coAuthorsDBLP.mtx, coPapersCiteseer.mtx, coPapersDBLP.mtx, germany_osm.mtx, great-britain_osm.mtx, higgs-twitter_mention.mtx, higgs-twitter_reply.mtx, higgs-twitter_retweet.mtx, higgs-twitter.mtx, indochina-2004.mtx, italy_osm.mtx, min-1DeadEnd.mtx, ProfRes.mtx, socEpinions1.mtx, socLiveJournal1.mtx, soc-Slashdot0811.mtx, soc-Slashdot0902.mtx, test_bc.mtx, test_cc.mtx, test_mst.mtx, test_pr.mtx, test_scc.mtx, test_sgd.mtx, test_small_scc.mtx, web-Google.mtx, web-NotreDame.mtx, web-Stanford.mtx
+4.mtx, 4w.mtx, asia_osm.mtx, chesapeake.mtx, coAuthorsCiteseer.mtx, coAuthorsDBLP.mtx, <br>
+coPapersCiteseer.mtx, coPapersDBLP.mtx, germany_osm.mtx, great-britain_osm.mtx, higgs-twitter_mention.mtx, higgs-twitter_reply.mtx, higgs-twitter_retweet.mtx, higgs-twitter.mtx, indochina-2004.mtx, italy_osm.mtx, min-1DeadEnd.mtx, ProfRes.mtx, socEpinions1.mtx, socLiveJournal1.mtx, soc-Slashdot0811.mtx, soc-Slashdot0902.mtx, test_bc.mtx, test_cc.mtx, test_mst.mtx, test_pr.mtx, test_scc.mtx, test_sgd.mtx, test_small_scc.mtx, web-Google.mtx, web-NotreDame.mtx, web-Stanford.mtx
 ``` 
 
 > **PolyBench** : [PolyBench](https://web.cs.ucla.edu/~pouchet/software/polybench/GPU/index.html)
