@@ -1,4 +1,4 @@
-# Application PreProfilings on NVIDIA Nsight Compute Tool CLI (NCU) 
+## Application PreProfilings on NVIDIA Nsight Compute Tool CLI (NCU) 
 
 In this repo, The below list includes the profiled applications with data on RTX1650. However, I have included the scripts such that you can clone them into your local machines and runs them after small manipulations. To conduct this profiling analysis, you must provide application binaries correspondingly and re-configure the related .sh files.  <br> 
 
